@@ -1,0 +1,14 @@
+COMANDOS DE GIT
+GIT BASH - GLOBAL 
+git config --list                 -----ver el usuario y correo
+
+--------------------
+SUBIR AL REPO VIRTUAL
+git init
+git add archivo.extension
+git git commit -m “mensaje”
+git remote add nombrearchivo ruta(git
+git push -u origin master
+
+
+git status -- ver el estado
